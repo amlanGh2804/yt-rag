@@ -1,1 +1,1 @@
-This is a Yotuvbe RAG application prototype
+This is a Youtube RAG application prototype
